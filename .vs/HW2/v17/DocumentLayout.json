@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9223ECB7-0E8F-46DE-B1CD-B7032E150A75}|HW2\\HW2.csproj|C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\hw2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9223ECB7-0E8F-46DE-B1CD-B7032E150A75}|HW2\\HW2.csproj|solutionrelative:hw2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223ECB7-0E8F-46DE-B1CD-B7032E150A75}|HW2\\HW2.csproj|C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\hw2\\ketthuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9223ECB7-0E8F-46DE-B1CD-B7032E150A75}|HW2\\HW2.csproj|solutionrelative:hw2\\ketthuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223ECB7-0E8F-46DE-B1CD-B7032E150A75}|HW2\\HW2.csproj|C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\hw2\\to_tu_van_tai_cho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9223ECB7-0E8F-46DE-B1CD-B7032E150A75}|HW2\\HW2.csproj|solutionrelative:hw2\\to_tu_van_tai_cho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223ECB7-0E8F-46DE-B1CD-B7032E150A75}|HW2\\HW2.csproj|c:\\users\\doan hieu\\documents\\zalo received files\\updragehw2 (1)\\hw2\\goi_nguoi_than.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9223ECB7-0E8F-46DE-B1CD-B7032E150A75}|HW2\\HW2.csproj|solutionrelative:hw2\\goi_nguoi_than.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223ECB7-0E8F-46DE-B1CD-B7032E150A75}|HW2\\HW2.csproj|C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\hw2\\bat_dau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9223ECB7-0E8F-46DE-B1CD-B7032E150A75}|HW2\\HW2.csproj|solutionrelative:hw2\\bat_dau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223ECB7-0E8F-46DE-B1CD-B7032E150A75}|HW2\\HW2.csproj|C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\hw2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9223ECB7-0E8F-46DE-B1CD-B7032E150A75}|HW2\\HW2.csproj|solutionrelative:hw2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223ECB7-0E8F-46DE-B1CD-B7032E150A75}|HW2\\HW2.csproj|C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\hw2\\goi_nguoi_than.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9223ECB7-0E8F-46DE-B1CD-B7032E150A75}|HW2\\HW2.csproj|solutionrelative:hw2\\goi_nguoi_than.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223ECB7-0E8F-46DE-B1CD-B7032E150A75}|HW2\\HW2.csproj|C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\hw2\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9223ECB7-0E8F-46DE-B1CD-B7032E150A75}|HW2\\HW2.csproj|solutionrelative:hw2\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "To_Tu_Van_Tai_Cho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\HW2\\To_Tu_Van_Tai_Cho.cs",
+              "RelativeDocumentMoniker": "HW2\\To_Tu_Van_Tai_Cho.cs",
+              "ToolTip": "C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\HW2\\To_Tu_Van_Tai_Cho.cs [Design]",
+              "RelativeToolTip": "HW2\\To_Tu_Van_Tai_Cho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:49:42.162Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Goi_Nguoi_Than.cs",
+              "DocumentMoniker": "C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\HW2\\Goi_Nguoi_Than.cs",
+              "RelativeDocumentMoniker": "HW2\\Goi_Nguoi_Than.cs",
+              "ToolTip": "C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\HW2\\Goi_Nguoi_Than.cs",
+              "RelativeToolTip": "HW2\\Goi_Nguoi_Than.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:02:33.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KetThuc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\HW2\\KetThuc.cs",
+              "RelativeDocumentMoniker": "HW2\\KetThuc.cs",
+              "ToolTip": "C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\HW2\\KetThuc.cs [Design]",
+              "RelativeToolTip": "HW2\\KetThuc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:04:47.694Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\HW2\\MainForm.cs",
+              "RelativeDocumentMoniker": "HW2\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\HW2\\MainForm.cs [Design]",
+              "RelativeToolTip": "HW2\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:09:48.37Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bat_Dau.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\HW2\\Bat_Dau.cs",
+              "RelativeDocumentMoniker": "HW2\\Bat_Dau.cs",
+              "ToolTip": "C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\HW2\\Bat_Dau.cs [Design]",
+              "RelativeToolTip": "HW2\\Bat_Dau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:09:03.665Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\HW2\\MainForm.cs",
+              "RelativeDocumentMoniker": "HW2\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\HW2\\MainForm.cs",
+              "RelativeToolTip": "HW2\\MainForm.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAkwGsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:28:51.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Goi_Nguoi_Than.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\HW2\\Goi_Nguoi_Than.cs",
+              "RelativeDocumentMoniker": "HW2\\Goi_Nguoi_Than.cs",
+              "ToolTip": "C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\HW2\\Goi_Nguoi_Than.cs [Design]",
+              "RelativeToolTip": "HW2\\Goi_Nguoi_Than.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:37:57.246Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\HW2\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "HW2\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Doan Hieu\\Documents\\Zalo Received Files\\UpdrageHW2 (1)\\HW2\\MainForm.Designer.cs",
+              "RelativeToolTip": "HW2\\MainForm.Designer.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAwwPMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:31:17.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
